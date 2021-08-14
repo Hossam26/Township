@@ -6,7 +6,7 @@ This is a minified version of the real township game where you can farm and buil
 -Data Structures manipulations
 -OOP concepts and how to implement them
 
-##Team mates 
+## Team mates 
 -Hossam Bassem
 -ALaddin Abdelrhman
 -Goher Assem 
